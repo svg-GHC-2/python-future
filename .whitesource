@@ -1,0 +1,13 @@
+// # This is only here to be a trigger, because this is not the default branch on the repo.
+{
+  "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master",
+  "scanSettings": {
+    "configMode": "AUTO",
+    "configExternalURL": "",
+    "projectToken": "",
+    "baseBranches": ["master", "v0.18.0-branch"]
+  },
+  "remediateSettings": {
+    "enableRenovate": false
+  }
+}
