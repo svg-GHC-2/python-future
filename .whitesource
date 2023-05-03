@@ -1,3 +1,12 @@
 {
-  "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master"
+  "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master",
+  "scanSettings": {
+    "configMode": "AUTO",
+    "configExternalURL": "",
+    "projectToken": "",
+    "baseBranches": ["master", "v0.18.0-branch"]
+  },
+  "remediateSettings": {
+    "enableRenovate": false
+  }
 }
